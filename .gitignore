@@ -1,0 +1,60 @@
+# Termux Code private data
+.termuxcode/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+*.token
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs/temp
+*.log
+*.tmp
+
+# API-ключи и секреты
+.env
+.env.*
+*.env
+secrets.*
+secret.*
+credentials.*
+config.local.*
+*.key
+*.pem
+*.token
+
+# История/чаты/логи
+history/
+histories/
+chats/
+chat_history/
+sessions/
+logs/
+*.log
+*.history
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Виртуальные окружения
+venv/
+.venv/
+env/
+
+# IDE / система
+.idea/
+.vscode/
+.DS_Store
+
+# Временные файлы
+*.tmp
+*.bak
+*.swp
