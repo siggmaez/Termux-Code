@@ -92,11 +92,13 @@ Do not hard-code real API keys into files that you plan to upload to GitHub.
 
 ## ▶️ Running Termux Code
 
-Start Termux Code with:
+Start Termux Code:
 
 ```bash
-python termuxcode.py
+python termux_code.py
 ```
+
+The main entry point for **Termux Code v4.3.1** is `termux_code.py`.
 
 ## 🧠 Memory & Chat History
 
