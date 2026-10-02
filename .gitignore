@@ -58,3 +58,7 @@ env/
 *.tmp
 *.bak
 *.swp
+snake.py
+termux_code_backup.py
+termux_code_v4_backup.py
+.termuxcode/
